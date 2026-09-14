@@ -1,0 +1,8 @@
+venv/
+InjecAgent/
+__pycache__/
+*.pyc
+.DS_Store
+*.csv
+agent_output.txt
+Downloads/
